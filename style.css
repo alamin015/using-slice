@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
 .box1{
-    width: 992px;
+    max-width: 992px;
+    width: 98%;
     margin: 0 auto;
     padding: 60px 0;
     background: #fafafa;
